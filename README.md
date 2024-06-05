@@ -18,17 +18,17 @@ language: The Language of the content
 time_spent: Time spent to review the job in seconds.
 org: The Organization of the actor
 ds: The date in the format yyyy/mm/dd (stored as text).
-Tasks:
+*Tasks:
 
 Jobs Reviewed Over Time:
 Objective: Calculate the number of jobs reviewed per hour for each day in November 2020.
-
+<br>
 Task: Write an SQL query to calculate the number of jobs reviewed per hour for each day in November 2020.
-
+<br>
 Throughput Analysis:
-
+<br>
 Objective: Calculate the 7-day rolling average of throughput (number of events per second).
-
+<br>
 Task: Write an SQL query to calculate the 7-day rolling average of throughput. Additionally, explain whether you prefer using the daily metric or the 7-day rolling average for throughput, and why.
 
 Language Share Analysis:
