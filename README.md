@@ -1,1 +1,5 @@
-# Operation-Analytics-and-Investigating-Metric-Spike.
+Operational Analytics is a crucial process that involves analyzing a company's end-to-end operations to identify areas for improvement. This analysis helps various teams, such as operations, support, and marketing, derive valuable insights from the data they collect.
+
+One key aspect of Operational Analytics is investigating metric spikes. This involves understanding and explaining sudden changes in key metrics, such as a dip in daily user engagement or a drop in sales. It is essential to understand how to investigate these metric spikes to answer such questions effectively.
+
+In this project, the role of a Lead Data Analyst at a company like Microsoft is assumed. Various datasets and tables are provided, and the task is to derive insights from this data to answer questions posed by different departments within the company. The goal is to use advanced SQL skills to analyze the data, provide valuable insights that can help improve the company's operations, and understand sudden changes in key metrics.# Operation-Analytics-and-Investigating-Metric-Spike.
