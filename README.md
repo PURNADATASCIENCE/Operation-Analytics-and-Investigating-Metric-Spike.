@@ -18,70 +18,69 @@ language: The Language of the content
 time_spent: Time spent to review the job in seconds.
 org: The Organization of the actor
 ds: The date in the format yyyy/mm/dd (stored as text).
-*Tasks:
+#Tasks:
 
-Jobs Reviewed Over Time:
+1.Jobs Reviewed Over Time:
 Objective: Calculate the number of jobs reviewed per hour for each day in November 2020.
 <br>
 Task: Write an SQL query to calculate the number of jobs reviewed per hour for each day in November 2020.
 <br>
-Throughput Analysis:
+2.Throughput Analysis:
 <br>
 Objective: Calculate the 7-day rolling average of throughput (number of events per second).
 <br>
 Task: Write an SQL query to calculate the 7-day rolling average of throughput. Additionally, explain whether you prefer using the daily metric or the 7-day rolling average for throughput, and why.
-
-Language Share Analysis:
-
+<br>
+3.Language Share Analysis:
+<br>
 Objective: Calculate the percentage share of each language in the last 30 days.
-
+<br>
 Task: Write an SQL query to calculate the percentage share of each language over the last 30 days.
-
-Duplicate Rows Detection:
-
+<br>
+4.Duplicate Rows Detection:
+<br>
 Objective: Identify duplicate rows in the data.
-
+<br>
 Task: Write an SQL query to display duplicate rows from the job_data table.
 
 
 Case Study 2: Investigating Metric Spike
 will be working with three tables:
-
-users: Contains one row per user, with descriptive information about that user’s account.
-
-events: Contains one row per event, where an event is an action that a user has taken (e.g., login, messaging, search).
-
-email_events: Contains events specific to the sending of emails.
-
-Tasks:
-
-Weekly User Engagement:
-
+<br>
+*users: Contains one row per user, with descriptive information about that user’s account.
+<br>
+*events: Contains one row per event, where an event is an action that a user has taken (e.g., login, messaging, search).
+<br>
+*email_events: Contains events specific to the sending of emails.
+<br>
+#Tasks:
+<br>
+1.Weekly User Engagement:
+<br>
 Objective: Measure the activeness of users on a weekly basis.
-
+<br>
 Task: Write an SQL query to calculate the weekly user engagement.
-
-User Growth Analysis:
-
+<br>
+2.User Growth Analysis:
+<br>
 Objective: Analyze the growth of users over time for a product.
-
+<br>
 Task: Write an SQL query to calculate the user growth for the product.
-
-Weekly Retention Analysis:
-
+<br>
+3.Weekly Retention Analysis:
+<br>
 Objective: Analyze the retention of users on a weekly basis after signing up for a product.
-
+<br>
 Task: Write an SQL query to calculate the weekly retention of users based on their sign-up cohort.
-
-
-Weekly Engagement Per Device:
-
+<br>
+4.Weekly Engagement Per Device:
+<br>
 Objective: Measure the activeness of users on a weekly basis per device.
-
+<br>
 Task: Write an SQL query to calculate the weekly engagement per device.
-
-Email Engagement Analysis:
-
+<br>
+5.Email Engagement Analysis:
+<br>
 Objective: Analyze how users are engaging with the email service.
-
+<br>
 Task: Write an SQL query to calculate the email engagement metrics.
